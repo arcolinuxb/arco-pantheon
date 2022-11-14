@@ -310,7 +310,7 @@ ttf-ubuntu-font-family
 #adapta-gtk-theme
 arc-gtk-theme
 #arc-darkest-theme-git
-kvantum
+#kvantum
 #openbox-arc-git
 
 ###utilities
@@ -494,7 +494,7 @@ yay-bin
 ###########################################################################
 
 arcolinux-alacritty-git
-arcolinux-arc-kde
+#arcolinux-arc-kde
 arcolinux-bin-git
 #arcolinux-candy-beauty-git
 #arcolinux-common-git
@@ -508,20 +508,20 @@ arcolinux-fonts-git
 #arcolinux-geany-git
 arcolinux-grub-theme-vimix-git
 #arcolinux-gtk3-arcolinux-candy-beauty-git
-arcolinux-gtk3-sardi-arc-git
+#arcolinux-gtk3-sardi-arc-git
 #arcolinux-gtk3-surfn-arc-git
 #arcolinux-gtk3-surfn-arc-breeze-git
 #arcolinux-gtk3-surfn-plasma-dark-git
 #arcolinux-guake-autostart-git
 arcolinux-hblock-git
 arcolinux-keyring
-arcolinux-kvantum-git
+#arcolinux-kvantum-git
 #arcolinux-kvantum-lxqt-git
 #arcolinux-kvantum-plasma-git
-arcolinux-local-applications-git
-arcolinux-local-applications-all-hide-git
+#arcolinux-local-applications-git
+#arcolinux-local-applications-all-hide-git
 #arcolinux-local-applications-plasma-hide-git
-arcolinux-local-xfce4-git
+#arcolinux-local-xfce4-git
 #arcolinux-logo-git
 archlinux-logout-git
 #archlinux-logout-themes-git
@@ -542,7 +542,7 @@ arcolinux-pipemenus-git
 arcolinux-plank-git
 arcolinux-plank-themes-git
 #arcolinux-plasma-kservices-git
-arcolinux-polybar-git
+#arcolinux-polybar-git
 arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 #arcolinux-rofi-git
@@ -604,7 +604,7 @@ arcolinux-zsh-git
 #arcolinux-ukui-git
 #arcolinux-worm-git
 #arcolinux-wmderland-git
-arcolinux-xfce-git
+#arcolinux-xfce-git
 #arcolinux-xmonad-polybar-git
 #arcolinux-xmonad-xmobar-git
 
