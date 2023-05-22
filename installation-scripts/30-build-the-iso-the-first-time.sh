@@ -29,7 +29,7 @@ echo
 	desktop="pantheon"
 	dmDesktop="pantheon"
 
-	arcolinuxVersion='v23.06.01'
+	arcolinuxVersion='v23.06.02'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
